@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Kurate
+- 👀 I’m interested in Frontend Development (Javscript, CSS, Reactjs), Backend Development (Node.js, Express.js, PHP, Python) and Web3 Technology
+- 🌱 I’m currently learning Web3 Technology & Solidity
